@@ -47,12 +47,12 @@ Computer Science (with Specialization in Artificial Intelligence & Information S
 
  
  
-##SKILLS
+## SKILLS
 
 -	Languages - Proficient in Python, SQL, Pandas, NumPy, C++, Java, Ruby, Git, Agile Programming, R and familiar with Go, C, Haskell, Racket, Prolog, HTML, JavaScript (Vue.JS and Node.JS) and CSS.
 -	Platforms - MATLAB, Tableau, Power BI, Snowflake SQL, MS SQL Server, Excel, MySQL, SSIS, SSMS and PostgreSQL , PyCharm, RStudio, Jupyter Notebooks, Spyder, Azure Data Studio, Android Studio, SSMS, Atom, Apache Spark, IDLE, CLion, ArcGIS, MeshLab Other- Gaining knowledge and certification on AWS, Oracle DB, SAS, Jira, GIS for spatial data, LookerStudio, DOMO, TensorFlow, APIs, Hadoop, NodeJS and ERPs such as SAP.
 
-##PROJECT EXPERIENCE
+## PROJECT EXPERIENCE
 ### •	Pacman-Reinforcement-AI 
 -	Developed through Agile Methodologies. Implemented various reinforcement learning algorithms which make AI play the game of Pacman, including model-based and model-free approaches, as well as search algorithms such as depth- first, breadth-first, uniform cost, and A* in Python to solve Pacman maze problems, and applied adversarial and stochastic search techniques using multiagent Minimax and Expectimax algorithms to improve Pacman's movement.
 ### •	Cybersecurity Threat Analysis 
